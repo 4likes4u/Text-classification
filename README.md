@@ -20,5 +20,5 @@ To training BERT, personally, I strongly recommend you to use the gpu version co
 SMP only offers label for train and dev, so I only report performance over dev set here, the metric here is accuracy.
 
 |DAN|LSTM|BERT|
-|: ---------- :| :-----------:  | :-----------: |
+| ---------- | :-----------:  | :-----------: |
 |  0.752   |   0.720    |   0.819 |
