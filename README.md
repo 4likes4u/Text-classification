@@ -1,8 +1,8 @@
 # Text-classification
 
-Simple text classification using DAN, LSTM and BERT for SMP-19-ECISA contest.
+Simple text classification using [DAN](https://people.cs.umass.edu/~miyyer/pubs/2015_acl_dan.pdf), LSTM and [BERT](https://arxiv.org/abs/1810.04805) for [SMP-19-ECISA](http://conference.cipsc.org.cn/smp2019/smp_ecisa_SMP.html) contest.
 
-# Dependency
+# Dependencies
 - python 3.7
 - pytorch
 - transformers
